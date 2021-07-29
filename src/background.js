@@ -16,7 +16,9 @@ function surprise() {
 	var windowFeatures = "menubar=no,left=0,top=0,width=" + window.screen.width + ",height=" + window.screen.height + ",location=no,resizable=no,scrollbars=no,status=yes";
 	sound.play();
 	window.open(url, "imgswindow", windowFeatures);
-	alert("ﾈッとサーやﾌｨん耶ｍeﾛろ");
+	window.setTimeout(() => {
+		alert("ﾈッとサーやﾌｨん耶ｍeﾛろ")
+	},5000);
 }
 
 function getRandomInt(max) {
