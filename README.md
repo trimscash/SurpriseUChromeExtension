@@ -10,7 +10,3 @@
 <p>くそコードだけど許せ</p>
 <marquee>💩</marquee>
 <p>💩うごかんかなんでもないです</p>
-
-<hr>
-<h1>クレジット</h1>
-<p>//音　びたちー素材館　http://www.vita-chi.net/sozai1.htm</p>
