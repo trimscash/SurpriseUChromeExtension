@@ -15,8 +15,8 @@ function surprise() {
 	var sound = new Audio("./sounds/sound" + getRandomInt(soundNum) + ".wav");
 	var windowFeatures = "menubar=no,left=0,top=0,width=" + window.screen.width + ",height=" + window.screen.height + ",location=no,resizable=no,scrollbars=no,status=yes";
 	sound.play();
-	alert("ﾈッとサーやﾌｨん耶ｍeﾛろ");
 	window.open(url, "imgswindow", windowFeatures);
+	alert("ﾈッとサーやﾌｨん耶ｍeﾛろ");
 }
 
 function getRandomInt(max) {
