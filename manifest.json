@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+"name":"ネットサーフィンやめろ",
+"version":"1.0.0.12",
+"description":"ネットサーフィンをやめさせてくれる最強ツール",
+"icons": {
+    "16": "./icon/icon16.png",
+    "48": "./icon/icon48.png",
+    "128": "./icon/icon128.png"
+},
+"background": {
+    "scripts": [ "./src/background.js","./src/jquery-3.6.0.min.js"],
+    "persistent": false
+}
+}
