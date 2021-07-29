@@ -17,7 +17,7 @@ function surprise() {
 	sound.play();
 	window.open(url, "imgswindow", windowFeatures);
 	window.setTimeout(() => {
-		alert("ﾈッとサーやﾌｨん耶ｍeﾛろ")
+		alert("ﾈッとサーやﾌｨん耶ｍeﾛろ");
 	},5000);
 }
 
