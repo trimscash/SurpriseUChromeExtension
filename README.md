@@ -10,6 +10,9 @@
   <li>てか上三つの項はググれ</li>
   <li>おびえながら課題のことを忘れてネットサーフィンする</li>
 </ol>
+Add a scary image file (png) according to the readme.txt in the img folder Add a scary audio file (wav) according to the readme.txt in the sounds folder Change the max variable (the larger the variable, the smaller the chance of being startled) in background.js in the src folder ) in the background.js of the src folder to your liking. Open chrome, go to settings, select extensions, turn on developer mode, load unpackaged extensions, and upload this file. Surfing
+
+Translated with www.DeepL.com/Translator (free version)
 <hr>
 <h1>今後</h1>
 <p>多分ブラウザアクションでいろいろなパラメータを変更したりできるようにしてく（とても暇なら）</p>
