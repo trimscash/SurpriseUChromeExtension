@@ -10,6 +10,6 @@
 },
 "background": {
     "scripts": [ "./src/background.js","./src/jquery-3.6.0.min.js"],
-    "persistent": false
+    "persistent": true
 }
 }
