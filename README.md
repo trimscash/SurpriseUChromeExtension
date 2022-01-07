@@ -24,3 +24,6 @@ Translated with www.DeepL.com/Translator (free version)
 <p>このREADME.ｍｄのかきかたあってんのかな</p>
 <p>くそコードだけど許せ</p>
 <marquee>💩</marquee>
+
+* Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors
+* Released under the MIT license
